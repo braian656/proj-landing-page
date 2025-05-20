@@ -3,143 +3,143 @@ const menu = [
 		id: 1,
 		name: 'Bruschettas de tomate y albahaca',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: './img/Brusquettas-con-Tomates-y-Albahaca-2.jpg',
 		category: 'entradas',
 	},
 	{
 		id: 2,
 		name: 'Gambas al ajillo',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'entradas',
 	},
 	{
 		id: 3,
 		name: 'Croquetas de jamón ibérico',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'entradas',
 	},{
 		id: 4,
 		name: 'Ensalada César con pollo a la parrilla',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'ensaladas',
 	},{
 		id: 5,
 		name: 'Ensalada Caprese con mozzarella fresca',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'ensaladas',
 	},
 	{
 		id: 6,
 		name: 'Ensalada de quinoa con aguacate y mango',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'ensaladas',
 	}
 	,{
 		id: 7,
 		name: 'Sopa de mariscos',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'sopas-cremas',
 	},{
 		id: 8,
 		name: 'Crema de champiñones',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'sopas-cremas',
 	},{
 		id: 9,
 		name: 'Sopa minestrone',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'sopas-cremas',
 	},{
 		id: 10,
 		name: 'Filete de ternera con salsa de champiñones',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'principales',
 	},{
 		id: 11,
 		name: 'Pollo a la parrilla con puré de papas',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'principales',
 	},{
 		id: 12,
 		name: 'Salmón a la plancha con vegetales al vapor',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'principales',
 	},{
 		id: 13,
 		name: 'Paella mixta de mariscos y pollo',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'principales',
 	},{
 		id: 14,
 		name: 'Lasagna de carne',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'pastas-arroces',
 	},{
 		id: 15,
 		name: 'Risotto de hongos',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'pastas-arroces',
 	},{
 		id: 16,
 		name: 'Fettuccine Alfredo con camarones',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'pastas-arroces',
 	},{
 		id: 17,
 		name: 'Tiramisú clásico',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'postres',
 	},{
 		id: 18,
 		name: 'Flan de caramelo',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'postres',
 	},{
 		id: 19,
 		name: 'Flan de caramelo',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'postres',
 	},{
 		id: 20,
 		name: 'Sangría de vino tinto',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'bebidas',
 	},{
 		id:  21,
 		name: 'Mojito de menta y limón',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'bebidas',
 	},{
 		id: 22,
 		name: 'Limonada casera',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'bebidas',
 	},{
 		id: 23,
 		name: 'Té helado con miel y limón',
 		price: 190,
-		image: 'https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg',
+		image: '',
 		category: 'bebidas',
 	}
 ]
@@ -166,7 +166,7 @@ const showMenu = (category)=>{
 	const myMenu = category.map((food)=>{
 		return `<article class="card-menu" data-category=${food.category}>
 					<div class="img-menu">
-						<img src=${food.image} alt="">
+						<img src=${food.image !== '' ? food.image : '../img/img-404/robot_404.jpg' } alt="">
 					</div>
 					<div class="txt">
 						<h3 class="food-title">${food.name}</h3>
